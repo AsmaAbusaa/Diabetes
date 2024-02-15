@@ -1,2 +1,2 @@
 # Diabetes
-build a neural network to predicate a Diabetes using TensorFlow and Keras.
+build a neural network to predict a Diabetes using TensorFlow and Keras.
